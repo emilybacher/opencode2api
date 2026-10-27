@@ -28,7 +28,7 @@ Xem [hướng dẫn bảng điều khiển quản trị (tiếng Trung)](docs/ma
 ## Nhà tài trợ
 
 <a href="https://www.ipwo.net/?ref=githubopencode2api">
-  <img src="https://i.111666.best/image/NIw8Oa7xYY5EIWP0vaxiNj.jpeg" alt="IPWO" width="140">
+  <img src="https://i.imgur.com/J8qlKgB.jpeg" alt="IPWO" width="140">
 </a>
 
 **Được tài trợ bởi [IPWO](https://www.ipwo.net/?ref=githubopencode2api)** — Hỗ trợ kết nối mạng linh hoạt cho phát triển AI và quy trình API. Proxy dân cư IPWO bao phủ hơn 195 quốc gia và khu vực, hỗ trợ HTTP(S)/SOCKS5, phù hợp cho kiểm thử mạng xuyên khu vực, thu thập dữ liệu tuân thủ và tự động hóa. Có gói proxy động, tĩnh và không giới hạn, hỗ trợ dùng thử miễn phí. Mã giảm giá: `0200`.
