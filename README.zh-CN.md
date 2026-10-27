@@ -26,7 +26,7 @@ WebUI 内嵌在可执行文件中，运行服务无需 Node.js 或数据库。
 ## 赞助商
 
 <a href="https://www.ipwo.net/?ref=githubopencode2api">
-  <img src="https://i.imgur.com/J8qlKgB.jpeg" alt="IPWO" width="140">
+  <img src="https://i.ibb.co/Jw4LdC8K/2.png" alt="IPWO" height="40">
 </a>
 
 **Sponsored by [IPWO](https://www.ipwo.net/?ref=githubopencode2api)** — 为 AI 开发与 API 工作流提供灵活的网络连接支持。IPWO 住宅代理覆盖 195+ 个国家和地区，支持 HTTP(S)/SOCKS5 协议，适用于跨地区网络测试、合规数据采集及自动化开发场景，帮助开发者拓展更多应用可能。包含动态代理/静态代理/不限量代理，支持免费测试，90折扣码：`0200`。
