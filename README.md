@@ -25,11 +25,19 @@ See the [management console guide (Chinese)](docs/management.zh-CN.md) for the n
 
 ## Sponsors
 
-<a href="https://www.ipwo.net/?ref=githubopencode2api">
-  <img src="https://i.ibb.co/Jw4LdC8K/2.png" alt="IPWO" width="100%">
-</a>
-
-**Sponsored by [IPWO](https://www.ipwo.net/?ref=githubopencode2api)** — Flexible network connectivity for AI development and API workflows. IPWO residential proxies cover 195+ countries and regions, support HTTP(S)/SOCKS5, and are suitable for cross-region network testing, compliant data collection, and automation. Dynamic, static, and unlimited proxy plans are available, with free testing. Discount code: `0200`.
+<table>
+  <tr>
+    <td width="190" align="center">
+      <a href="https://www.ipwo.net/?ref=githubopencode2api">
+        <img src="assets/IPWO.png" width="163" alt="IPWO">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.ipwo.net/?ref=githubopencode2api">IPWO</a> residential proxies provide flexible network connectivity for AI development and API workflows, covering 195+ countries and regions with HTTP(S) and SOCKS5 support.<br>
+      Suitable for cross-region network testing, compliant data collection, and automated development. Dynamic, static, and unlimited proxy plans are available, with free testing and region selection. Discount code: <b>0200</b>.
+    </td>
+  </tr>
+</table>
 
 ## Quick start
 

@@ -25,11 +25,19 @@ Consulta la [guida della console di gestione (in cinese)](docs/management.zh-CN.
 
 ## Sponsor
 
-<a href="https://www.ipwo.net/?ref=githubopencode2api">
-  <img src="https://i.imgur.com/J8qlKgB.jpeg" alt="IPWO" width="140">
-</a>
-
-**Sponsorizzato da [IPWO](https://www.ipwo.net/?ref=githubopencode2api)** — Connettività di rete flessibile per lo sviluppo di AI e workflow API. I proxy residenziali IPWO coprono oltre 195 paesi e regioni, supportano HTTP(S)/SOCKS5 e sono adatti a test di rete cross-region, raccolta dati conforme e automazione. Sono disponibili piani proxy dinamici, statici e illimitati, con test gratuito. Codice sconto: `0200`.
+<table>
+  <tr>
+    <td width="190" align="center">
+      <a href="https://www.ipwo.net/?ref=githubopencode2api">
+        <img src="assets/IPWO.png" width="163" alt="IPWO">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.ipwo.net/?ref=githubopencode2api">IPWO</a> offre proxy residenziali con connettività di rete flessibile per lo sviluppo di AI e workflow API, coprendo oltre 195 paesi e regioni con supporto HTTP(S) e SOCKS5.<br>
+      Adatti a test di rete cross-region, raccolta dati conforme e sviluppo automatizzato. Sono disponibili proxy dinamici, statici e illimitati, con test gratuito e selezione della regione. Codice sconto: <b>0200</b>.
+    </td>
+  </tr>
+</table>
 
 ## Avvio rapido
 
